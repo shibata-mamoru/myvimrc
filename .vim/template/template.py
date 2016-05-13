@@ -1,7 +1,7 @@
 #!/Users/aoki/anaconda/bin python
 # coding : utf-8
 ###########################
-# Author: Yuya Aoki
+# Author: Mamoru Shibata
 #
 ###########################
 

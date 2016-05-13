@@ -105,4 +105,5 @@ NeoBundleLazy "davidhalter/jedi-vim", {
 
 NeoBundleLazy 'hynek/vim-python-pep8-indent'
 
+"omni補完
 
